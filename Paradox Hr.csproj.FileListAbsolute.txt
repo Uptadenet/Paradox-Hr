@@ -1,0 +1,16 @@
+C:\Users\olgun\source\repos\Paradox Hr\Paradox Hr\bin\Debug\Paradox Hr.exe.config
+C:\Users\olgun\source\repos\Paradox Hr\Paradox Hr\bin\Debug\Paradox Hr.exe
+C:\Users\olgun\source\repos\Paradox Hr\Paradox Hr\bin\Debug\Paradox Hr.pdb
+C:\Users\olgun\source\repos\Paradox Hr\Paradox Hr\bin\Debug\Guna.UI2.dll
+C:\Users\olgun\source\repos\Paradox Hr\Paradox Hr\obj\Debug\Paradox Hr.csproj.AssemblyReference.cache
+C:\Users\olgun\source\repos\Paradox Hr\Paradox Hr\obj\Debug\Paradox Hr.csproj.SuggestedBindingRedirects.cache
+C:\Users\olgun\source\repos\Paradox Hr\Paradox Hr\obj\Debug\Paradox_Hr.Form1.resources
+C:\Users\olgun\source\repos\Paradox Hr\Paradox Hr\obj\Debug\Paradox_Hr.Properties.Resources.resources
+C:\Users\olgun\source\repos\Paradox Hr\Paradox Hr\obj\Debug\Paradox Hr.csproj.GenerateResource.cache
+C:\Users\olgun\source\repos\Paradox Hr\Paradox Hr\obj\Debug\Paradox Hr.csproj.CoreCompileInputs.cache
+C:\Users\olgun\source\repos\Paradox Hr\Paradox Hr\obj\Debug\Paradox Hr.csproj.CopyComplete
+C:\Users\olgun\source\repos\Paradox Hr\Paradox Hr\obj\Debug\Paradox Hr.exe
+C:\Users\olgun\source\repos\Paradox Hr\Paradox Hr\obj\Debug\Paradox Hr.pdb
+C:\Users\olgun\source\repos\Paradox Hr\Paradox Hr\obj\Debug\Paradox_Hr.main.resources
+C:\Users\olgun\source\repos\Paradox Hr\Paradox Hr\obj\Debug\Paradox_Hr.keys.resources
+C:\Users\olgun\source\repos\Paradox Hr\Paradox Hr\obj\Debug\Paradox_Hr.singup.resources
